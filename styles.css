@@ -33,6 +33,13 @@ p{
   font-style:normal;
 }
 
+hr
+{
+        height: 1px;
+        background-color: rgb(70, 70, 70);
+        border: none;
+}
+
 #cards {
   display: flex;
   flex-wrap: wrap;
