@@ -33,11 +33,20 @@ p{
   color: rgb(238, 239, 252);
   font-size: 25px;
   justify-content: center;
-  font-family: 'Arial', sans-serif;
+  font-family: 'Consolas', sans-serif;
   font-weight:normal;
   font-style:normal;
 }
 
+h2{
+  text-align: center;
+  color: rgb(150, 150, 150);
+  font-size: 25px;
+  justify-content: center;
+  font-family: 'Consolas', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+}
 hr
 {
   height: 1px;
@@ -71,7 +80,7 @@ hr
 .bot {
   background-color: rgb(20, 20, 20);
   border-style: solid;
-  border-color: cyan;
+  border-color: rgb(20, 20, 20);
   border-radius: 5px;
   min-width: 916px;
   min-height: 100px;
