@@ -8,7 +8,7 @@ body {
   background-color: var(--bg-color);
   display: flex;
   justify-content: center;
-  height: 100vh;
+  height: 145vh;
   margin: 0px;
   overflow: hidden;
   padding: 0px;
@@ -16,9 +16,18 @@ body {
 }
 
 h1 {
+  text-align: center;
   color: rgb(238, 239, 252);
   justify-content: center;
-  height: 80%;
+  font-family: 'Courier', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+}
+
+p{
+  text-align: center;
+  color: rgb(238, 239, 252);
+  justify-content: center;
   font-family: 'Courier', sans-serif;
   font-weight:normal;
   font-style:normal;
