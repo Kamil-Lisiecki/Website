@@ -3,6 +3,15 @@
   --card-color: rgb(23, 23, 23);
 }
 
+@font-face {
+    font-family: 'sf_pro_displayregular';
+    src: url('https://kamil-lisiecki.github.io/Website/fonts/sfprodisplayregular-webfont.woff2') format('woff2'),
+         url('https://kamil-lisiecki.github.io/Website/fonts/sfprodisplayregular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 body {
   align-items: center;
   background-color: var(--bg-color);
