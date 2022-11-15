@@ -12,6 +12,7 @@ body {
   margin: 0px;
   overflow: scroll;
   padding: 0px;
+  font-color: rgb(255, 255, 255);
 }
 
 h1 {
