@@ -42,7 +42,7 @@ h1 {
   border-color: coral;
   border-radius: 5px;
   min-width: 916px;
-  height: 660px;
+  min-height: 660px;
   width: 916px;
   position: relative;
 }
