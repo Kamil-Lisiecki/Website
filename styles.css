@@ -10,34 +10,39 @@ body {
   justify-content: center;
   height: 10%;
   margin: 0px;
-  overflow: scroll;
+  overflow-x: hidden;
   padding: 0px;
   font-color: rgb(255, 255, 255);
+  line-height: 10%;
 }
 
 h1 {
   text-align: center;
   color: rgb(238, 239, 252);
   justify-content: center;
-  font-family: 'Courier', sans-serif;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 80px;
   font-weight:normal;
   font-style:normal;
+  line-height: 0%;
+  margin-bottom: 30px;
 }
 
 p{
   text-align: center;
   color: rgb(238, 239, 252);
+  font-size: 25px;
   justify-content: center;
-  font-family: 'Courier', sans-serif;
+  font-family: 'Arial', sans-serif;
   font-weight:normal;
   font-style:normal;
 }
 
 hr
 {
-        height: 1px;
-        background-color: rgb(70, 70, 70);
-        border: none;
+  height: 1px;
+  background-color: rgb(70, 70, 70);
+  border: none;
 }
 
 #cards {
@@ -55,7 +60,7 @@ hr
 .top {
   background-color: rgb(20, 20, 20);
   border-style: solid;
-  border-color: coral;
+  border-color: rgb(20, 20, 20);
   border-radius: 5px;
   min-width: 916px;
   min-height: 660px;
