@@ -129,7 +129,7 @@ hr
 .card > .card-border {
   background: radial-gradient(
     400px circle at var(--mouse-x) var(--mouse-y),
-    rgb(255, 255, 255),
+    rgba(255, 255, 255, 0.3),
     transparent 40%
   );
   z-index: 1;
